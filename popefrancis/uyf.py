@@ -3,7 +3,9 @@
 # Usage: ./uyf.py
 #
 # Dependency "Matplotlib"
-
+#
+# Don't Abuse Patheos server
+#
 
 import numpy as np
 import matplotlib.pyplot as plt
