@@ -1,7 +1,8 @@
 unequally-yoked
 ===============
 
-Scripts used to make figures for my comments on [Unequally Yoked](http://www.patheos.com/blogs/unequallyyoked "By Ms. Leah Libresco").</a>
+Scripts used to make figures for some comments on [Unequally Yoked](http://www.patheos.com/blogs/unequallyyoked "By Ms. Leah Libresco").</a>
+
 
 Dependencies
 ------------
