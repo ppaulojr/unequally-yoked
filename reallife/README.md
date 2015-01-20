@@ -9,6 +9,4 @@ Directories
 -----------
 * popefrancis - Mostly the tag cloud generator for the last post of the series.
 * arduino     - Suggestion for enhancement of Arduino project (31-Oct)
-* reallife    - Download the episodes of the radio
-
-
+* reallife    - Download radio episodes
