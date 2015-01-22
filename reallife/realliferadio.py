@@ -26,7 +26,7 @@ def save_audio_mp3 (filename, url):
             downloaded += len(chunk)
             print "Downloaded %.2f%%"%(100*downloaded/float(size))
             fp.write (chunk)
-    f.close()
+        fp.close()
     
 if __name__ == "__main__":
     audiolist = setup()
